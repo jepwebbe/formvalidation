@@ -16,6 +16,9 @@ export const StyledContactForm = styled.form`
         margin-left: auto;
         cursor: pointer;
       }
+      textarea {
+        resize: none;
+      }
       p {
         color: red;
         margin: 0;
